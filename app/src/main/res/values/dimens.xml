@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="movie_tv_title_height">130dp</dimen>
+    <dimen name="movie_tv_title_padding">15dp</dimen>
+    <dimen name="movie_tv_title_text_size">30sp</dimen>
+    <dimen name="movie_iv_height">200dp</dimen>
+    <dimen name="movie_iv_width">140dp</dimen>
+    <dimen name="movie_iv_margin_start">20dp</dimen>
+    <dimen name="movie_iv_margin_top">10dp</dimen>
+    <dimen name="movie_tv_year_margin">30dp</dimen>
+    <dimen name="movie_tv_year_text_size">28sp</dimen>
+    <dimen name="movie_tv_rating_margin">35dp</dimen>
+    <dimen name="movie_tv_rating_text_size">18sp</dimen>
+    <dimen name="movie_tv_plot_margin">15dp</dimen>
+    <dimen name="movie_tv_plot_text_size">15sp</dimen>
+    <dimen name="movie_tv_plot_padding">10dp</dimen>
+    <dimen name="progressbar_height">100dp</dimen>
+    <dimen name="image_button_margin_start">20dp</dimen>
+    <dimen name="image_button_margin_top">10dp</dimen>
+    <dimen name="recycler_view_width">368dp</dimen>
+    <dimen name="layout_margin">10dp</dimen>
+    <dimen name="textview_margin_top">5dp</dimen>
+    <dimen name="textview_margin_left">4dp</dimen>
+    <dimen name="textview_margin_right">4dp</dimen>
+</resources>

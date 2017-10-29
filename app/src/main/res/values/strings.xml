@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="cont_Desc_Movie_Poster">Content Description Movie Poster</string>
+    <string name="cont_Desc_Movie_Details_Poster">Content Description Movie Details Poster</string>
+    <string name="Movie_Details">Movie Details</string>
+    <string name="connection_Not_Available">No Connection Available</string>
+    <string name="Invalid_Api_Key">API key not Valid</string>
+    <string name="TrailersTitle">Trailers :</string>
+    <string name="Description">Favorite button</string>
+    <string name="ReviewsTitle">Reviews :</string>
+</resources>
